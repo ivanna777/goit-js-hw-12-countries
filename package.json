@@ -1,0 +1,35 @@
+{
+  "name": "goit-js-hw-12-countries",
+  "version": "1.0.0",
+  "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanna777/goit-js-hw-12-countries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanna777/goit-js-hw-12-countries/issues"
+  },
+  "homepage": "https://github.com/ivanna777/goit-js-hw-12-countries#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "parcel-bundler": "^1.12.5",
+    "pnotify": "^5.2.0"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "material-design-icons": "^3.0.1",
+    "parcel-plugin-handlebars": "^0.4.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.1"
+  }
+}
