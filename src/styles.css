@@ -5,6 +5,7 @@
     margin: 0;
 }
 .card {
+    margin-top: 100px;
     width: 25%;
     background-color: burlywood;
     border: firebrick solid 10px;
